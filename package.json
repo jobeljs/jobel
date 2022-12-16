@@ -1,0 +1,22 @@
+{
+  "name": "jobel",
+  "version": "0.0.1",
+  "description": "The framework for JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jobeljs/jobel.git"
+  },
+  "keywords": [
+    "jobel"
+  ],
+  "author": "Krzysztof Białk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jobeljs/jobel/issues"
+  },
+  "homepage": "https://github.com/jobeljs/jobel#readme"
+}
